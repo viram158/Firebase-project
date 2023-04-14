@@ -1,0 +1,11 @@
+#b:focus{
+    background: green;
+}
+
+#b:active{
+    background-color: green;
+}
+#b{
+    background-color:red ;
+}
+
